@@ -10,7 +10,7 @@ Users also want to see if they have see a word before and number of times they h
 ## Other requirements
 - A user screen flow for developers and product owners with wireframes.
 - An explanation of designs decisions as if you are getting the buy in of the Product Owners and that their requirements have been met. 
-- List out any more assumptions if any which affected your decisions.
+- List out any more assumptions / extra research if any which affected your decisions and explain why you needed to do more research.
 - This is a mobile design app. You can use Iphone 6 or Google Nexus view ports as design constraints.
 
 ## Bonus points 
