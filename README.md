@@ -15,4 +15,4 @@ Users also want to see if they have see a word before and number of times they h
 
 ## Bonus points 
 - If you can provide a working protype in Invision or website etc. **!! If you are doing this, no need to provide a screen workflow.**
-- If you can provide HiFi designs designs using iOS 10 or Google Material design principals that will be a plus!
+- If you can provide HiFi designs  using iOS 10 or Google Material design specs that will be a plus!
