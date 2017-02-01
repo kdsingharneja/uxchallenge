@@ -1,4 +1,4 @@
-# Challenge 1
+# UX Challenge
 
 ## High level requirements from Product Owner:
 *Assume these are part of an Minimum Viable Product going out in release 0.1*
